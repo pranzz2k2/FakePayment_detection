@@ -1,0 +1,16 @@
+streamlit
+requests
+numpy
+joblib
+Pillow
+opencv-python
+pyzbar
+av
+streamlit-webrtc
+pandas
+scikit-learn
+matplotlib
+seaborn
+google-generativeai
+python-dotenv
+streamlit_lottie
